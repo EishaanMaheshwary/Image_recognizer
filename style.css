@@ -1,0 +1,12 @@
+body{
+    background-color: gold;
+    color:darkorange;
+    text-align: center;
+    font-family: cursive;
+}
+#heading{
+    width:900px;
+    color:#ff0000;
+    font-weight:bolder;
+    font-size: 50px;
+}
